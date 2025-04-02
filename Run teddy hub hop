@@ -1,1 +1,2 @@
-
+return 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HuanMC123/Helllo/refs/heads/main/Teddy%20hub%20hop%20free%20get%20key"))()
